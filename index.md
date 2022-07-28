@@ -5,6 +5,7 @@ This page has no content yet. Check back later! In the meantime, chat with me on
 - [Tails OS](https://tails.boum.org/)
 - [Qubes OS](https://www.qubes-os.org/)
 - [GrapheneOS](https://grapheneos.org)
+- [ShutUp10++](https://www.oo-software.com/en/shutup10)
 - [TOR Browser](https://www.torproject.org)
 - [Signal Messenger](https://www.signal.org)
 - [Proton](https://proton.me)
