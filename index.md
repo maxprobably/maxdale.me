@@ -1,6 +1,6 @@
 ## Hi there, I'm Max!
 
-Thanks for coming by. This website is currently in its infancy, so come back later! In the meantime, chat with me on [Twitter](https://twitter.com/maximedale) or check out some of these privacy-focused resources/organizations:
+Thanks for stopping by. This website is currently in its infancy, so come back later! In the meantime, chat with me on [Twitter](https://twitter.com/maximedale) or check out some of these privacy-focused resources/organizations:
 
 - [Tails OS](https://tails.boum.org/)
 - [Qubes OS](https://www.qubes-os.org/)
