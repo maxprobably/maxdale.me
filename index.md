@@ -22,5 +22,7 @@ This page has no content yet. Check back later! In the meantime, chat with me on
 - [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
 - [Electronic Frontier Foundation](https://www.eff.org)
 - [Freedom of the Press Foundation](https://freedom.press)
+- [Triangle Privacy Hub](https://www.triangleprivacyhub.org/)
+- [World Privacy Forum](https://www.worldprivacyforum.org/)
 
 *- Max*
