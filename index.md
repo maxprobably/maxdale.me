@@ -10,7 +10,7 @@ This page has no content yet. Check back later! In the meantime, chat with me on
 - [Signal Messenger](https://www.signal.org)
 - [Proton](https://proton.me)
 - [uBlock Origin](https://ublockorigin.com)
-- [Pihole: Network-Wide Ad Blocking](https://pi-hole.net)
+- [Pi-hole](https://pi-hole.net)
 - [NextDNS](https://nextdns.io)
 - [Mullvad VPN](https://mullvad.net)
 - [OpenWRT](https://openwrt.org/)
