@@ -14,7 +14,7 @@ This page has no content yet. Check back later! In the meantime, chat with me on
 - [Mullvad VPN](https://mullvad.net)
 - [OpenWRT](https://openwrt.org/)
 - [PrivacyTests.org](https://privacytests.org)
-- [Mozilla: \*Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)
+- [\*Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)
 - [TOS;DR](https://tosdr.org)
 - [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
 - [Electronic Frontier Foundation](https://www.eff.org)
