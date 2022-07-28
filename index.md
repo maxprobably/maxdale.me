@@ -4,7 +4,7 @@ This website is under construction, so check back later! In the meantime, chat w
 
 - [Tails OS](https://tails.boum.org/)
 - [Qubes OS](https://www.qubes-os.org/)
-- [GrapheneOS](https://grapheneos.org)
+- [Graphene OS](https://grapheneos.org)
 - [ShutUp10++](https://www.oo-software.com/en/shutup10)
 - [TOR Browser](https://www.torproject.org)
 - [Signal Messenger](https://www.signal.org)
