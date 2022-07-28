@@ -1,6 +1,6 @@
 ## Thanks for stopping by!
 
-This website is under construction. Check back later! In the meantime, chat with me on [Twitter](https://twitter.com/maximedale) or check out one of these resources/organizations:
+This website is under construction, so check back later! In the meantime, chat with me on [Twitter](https://twitter.com/maximedale) or check out one of these resources/organizations:
 
 - [Tails OS](https://tails.boum.org/)
 - [Qubes OS](https://www.qubes-os.org/)
