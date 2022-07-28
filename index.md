@@ -15,6 +15,7 @@ This page has no content yet. Check back later! In the meantime, chat with me on
 - [Mullvad VPN](https://mullvad.net)
 - [OpenWRT](https://openwrt.org/)
 - [';--have i been pwned?](https://haveibeenpwned.com)
+- [AmIUnique](https://amiunique.org)
 - [PrivacyTests.org](https://privacytests.org)
 - [\*Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)
 - [TOS;DR](https://tosdr.org)
