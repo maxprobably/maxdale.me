@@ -1,6 +1,6 @@
-## Thanks for stopping by!
+## Hi there, I'm Max!
 
-This website is under construction, so come back later! In the meantime, chat with me on [Twitter](https://twitter.com/maximedale) or check out some of these privacy-focused resources/organizations:
+Thanks for swinging by. This website is currently in its infancy, so come back later! In the meantime, chat with me on [Twitter](https://twitter.com/maximedale) or check out some of these privacy-focused resources/organizations:
 
 - [Tails OS](https://tails.boum.org/)
 - [Qubes OS](https://www.qubes-os.org/)
@@ -24,5 +24,3 @@ This website is under construction, so come back later! In the meantime, chat wi
 - [Electronic Frontier Foundation](https://www.eff.org)
 - [Triangle Privacy Research Hub](https://www.triangleprivacyhub.org/)
 - [Freedom of the Press Foundation](https://freedom.press)
-
-*- Max*
