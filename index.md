@@ -20,8 +20,8 @@ This website is under construction. Check back later! In the meantime, chat with
 - [\*Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)
 - [TOS;DR](https://tosdr.org)
 - [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
-- [Electronic Frontier Foundation](https://www.eff.org)
 - [World Privacy Forum](https://www.worldprivacyforum.org/)
+- [Electronic Frontier Foundation](https://www.eff.org)
 - [Triangle Privacy Research Hub](https://www.triangleprivacyhub.org/)
 - [Freedom of the Press Foundation](https://freedom.press)
 
