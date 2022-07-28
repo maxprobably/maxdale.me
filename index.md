@@ -7,7 +7,7 @@ This page has no content yet. Check back later! In the meantime, chat with me on
 - [Signal Messenger](https://www.signal.org)
 - [Electronic Frontier Foundation](https://www.eff.org)
 - [PrivacyTests.org](https://privacytests.org)
-- [Mozilla: Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)
+- [Mozilla: \*Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)
 - [Pihole: Network-Wide Ad Blocking](https://pi-hole.net)
 - [GrapheneOS](https://grapheneos.org)
 
