@@ -6,6 +6,7 @@ Thanks for stopping by. This website is currently in its infancy, so come back l
 - [Qubes OS](https://www.qubes-os.org/)
 - [Graphene OS](https://grapheneos.org)
 - [ShutUp10++](https://www.oo-software.com/en/shutup10)
+- [DEDA](https://github.com/dfd-tud/deda)
 - [TOR Browser](https://www.torproject.org)
 - [Signal Messenger](https://www.signal.org)
 - [Proton](https://proton.me)
