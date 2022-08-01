@@ -25,3 +25,5 @@ Thanks for stopping by. This website is currently in its infancy, so come back l
 - [Electronic Frontier Foundation](https://www.eff.org)
 - [Triangle Privacy Research Hub](https://www.triangleprivacyhub.org/)
 - [Freedom of the Press Foundation](https://freedom.press)
+
+<sup>This website uses GDPR-compliant analytics services.</sup>
