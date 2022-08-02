@@ -1,3 +1,5 @@
+### [Home](index.md)
+
 ## Resources
 
 - [Tails OS](https://tails.boum.org/)
