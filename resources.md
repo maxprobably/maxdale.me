@@ -1,4 +1,4 @@
-### [Home](index.md)
+### [Go back home](index.md)
 
 ## Resources
 
