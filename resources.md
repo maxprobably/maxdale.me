@@ -1,4 +1,4 @@
-##Resources
+#Resources
 
 - [Tails OS](https://tails.boum.org/)
 - [Qubes OS](https://www.qubes-os.org/)
@@ -19,8 +19,8 @@
 - [\*Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)
 - [TOS;DR](https://tosdr.org)
 - [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
-- 
-##Organizations
+
+#Organizations
 
 - [World Privacy Forum](https://www.worldprivacyforum.org/)
 - [Electronic Frontier Foundation](https://www.eff.org)
