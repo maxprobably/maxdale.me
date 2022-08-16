@@ -14,6 +14,7 @@
 - [Pi-hole](https://pi-hole.net)
 - [NextDNS](https://nextdns.io)
 - [Mullvad VPN](https://mullvad.net)
+- [IPLeak.net](https://ipleak.net)
 - [OpenWRT](https://openwrt.org/)
 - [';--have i been pwned?](https://haveibeenpwned.com)
 - [AmIUnique](https://amiunique.org)
