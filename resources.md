@@ -14,7 +14,7 @@
 - [Pi-hole](https://pi-hole.net)
 - [The Big Blocklist Collection](https://firebog.net)
 - [NextDNS](https://nextdns.io)
-- [Adblock Tester](https://adblock-tester.com)
+- [AdBlock Tester](https://adblock-tester.com)
 - [Mullvad VPN](https://mullvad.net)
 - [IPLeak.net](https://ipleak.net)
 - [OpenWRT](https://openwrt.org/)
