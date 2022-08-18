@@ -2,24 +2,23 @@
 
 ## Resources
 
-###Operating Systems
-
+### Operating Systems
 - [Tails OS](https://tails.boum.org/)
 - [Qubes OS](https://www.qubes-os.org/)
 - [Graphene OS](https://grapheneos.org)
 - [OpenWRT](https://openwrt.org/)
 
-###Browsers
+### Browsers
 - [TOR Browser](https://www.torproject.org)
 - [LibreWolf](https://librewolf.net)
 - [Brave](https://brave.com)
 
-###Communications
+### Communications
 - [Signal](https://www.signal.org)
 - [Session](https://getsession.org)
 - [ProtonMail](https://proton.me/mail)
 
-###Network Privacy/Telemetry Blocking
+### Network Privacy/Telemetry Blocking
 - [ShutUp10++](https://www.oo-software.com/en/shutup10)
 - [uBlock Origin](https://ublockorigin.com)
 - [Pi-hole](https://pi-hole.net)
@@ -29,7 +28,7 @@
 - [Mullvad VPN](https://mullvad.net)
 - [IPLeak.net](https://ipleak.net)
 
-###References
+### References
 - [';--have i been pwned?](https://haveibeenpwned.com)
 - [AmIUnique](https://amiunique.org)
 - [PrivacyTests.org](https://privacytests.org)
@@ -37,7 +36,7 @@
 - [TOS;DR](https://tosdr.org)
 - [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
 
-###Other
+### Other
 - [Tracking Dots Extraction, Decoding and Anonymisation Toolkit](https://github.com/dfd-tud/deda)
 
 ## Organizations
