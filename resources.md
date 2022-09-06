@@ -30,6 +30,7 @@
 
 ### References
 - [';--have i been pwned?](https://haveibeenpwned.com)
+- [Cover Your Tracks (formerly Panopticlick)](https://coveryourtracks.eff.org)
 - [AmIUnique](https://amiunique.org)
 - [PrivacyTests.org](https://privacytests.org)
 - [\*Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)
