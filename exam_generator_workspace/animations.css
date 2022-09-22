@@ -1,0 +1,47 @@
+@keyframes fadeIn {
+
+    0% {
+
+        opacity: 0%;
+
+    }
+
+    100% {
+        
+        opacity: 100%;
+    
+    }
+
+    }
+
+ @keyframes popIn {
+
+    0% {
+    
+        scale: 100%;
+    
+    }
+    
+    100% {
+            
+        scale: 105%;
+        
+    }
+    
+        }
+
+@keyframes popOut {
+
+    0% {
+    
+        scale: 105%;
+    
+    }
+    
+    100% {
+            
+        scale: 100%;
+        
+    }
+    
+        }
