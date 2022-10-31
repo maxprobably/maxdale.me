@@ -11,7 +11,7 @@
 ### Browsers
 - [TOR Browser](https://www.torproject.org)
 - [LibreWolf](https://librewolf.net)
-- [Brave](https://brave.com)
+- [Orion](https://browser.kagi.com)
 
 ### Communications
 - [Signal](https://www.signal.org)
