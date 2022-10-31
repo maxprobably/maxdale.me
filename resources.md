@@ -25,6 +25,7 @@
 - [NextDNS](https://nextdns.io)
 - [AdBlock Tester](https://adblock-tester.com)
 - [The Big Blocklist Collection](https://firebog.net)
+- [ProtonVPN](https://proton.me/vpn)
 - [Mullvad VPN](https://mullvad.net)
 - [IPLeak.net](https://ipleak.net)
 
