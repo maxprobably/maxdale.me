@@ -1,5 +1,3 @@
-### [Go back home](index.md)
-
 ## Resources
 
 ### Operating Systems
